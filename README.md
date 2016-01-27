@@ -1,4 +1,5 @@
 [![Code Climate](https://codeclimate.com/github/jonathanchrisp/express-api-kickstarter/badges/gpa.svg)](https://codeclimate.com/github/jonathanchrisp/express-api-kickstarter)
+[![Circle CI](https://circleci.com/gh/jonathanchrisp/express-api-kickstarter.svg?style=svg)](https://circleci.com/gh/jonathanchrisp/express-api-kickstarter)
 
 # express-api-kickstarter
 
