@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/jonathanchrisp/express-api-kickstarter/badges/gpa.svg)](https://codeclimate.com/github/jonathanchrisp/express-api-kickstarter)
+
 # express-api-kickstarter
 
 ## Background
