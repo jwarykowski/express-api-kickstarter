@@ -1,0 +1,37 @@
+{
+  "name": "express-api-kickstarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "lint": "eslint .",
+    "test": "eslint . && istanbul cover _mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanchrisp/express-api-kickstarter.git"
+  },
+  "author": "Jonathan Chrisp <jonathan.chrisp@gmail.com> (http://jonathanchrisp.com)",
+  "bugs": {
+    "url": "https://github.com/jonathanchrisp/express-api-kickstarter/issues"
+  },
+  "homepage": "https://github.com/jonathanchrisp/express-api-kickstarter#readme",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "expectations": "^0.5.2",
+    "istanbul": "^0.4.1",
+    "mocha": "^2.3.4",
+    "proxyquire": "^1.7.3",
+    "sinon": "^1.17.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "bunyan": "^1.5.1",
+    "compression": "^1.6.0",
+    "config": "^1.17.1",
+    "express": "^4.13.3",
+    "newrelic": "^1.24.1",
+    "uuid": "^2.0.1"
+  }
+}

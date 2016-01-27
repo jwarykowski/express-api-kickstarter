@@ -1,0 +1,29 @@
+{
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "rules": {
+        "no-eval": 2,
+        "strict": [2, "global"],
+        "guard-for-in": 2,
+        "wrap-iife": 2,
+        "new-cap": 2,
+        "no-caller": 2,
+        "curly": 2,
+        "eqeqeq": 2,
+        "no-bitwise": 2,
+        "no-empty": 2,
+        "no-use-before-define": [2, "nofunc"],
+        "no-new": 2,
+        "max-depth": [2, 3],
+        "no-undef": 2,
+        "no-unused-vars": 2,
+        "max-params": [2, 4],
+        "max-statements": [2, 20],
+        "complexity": [2, 10],
+        "max-len": [2, 140],
+        "quotes": [2, "single"],
+        "indent": [2, 4, {"SwitchCase": 1}]
+    }
+}
