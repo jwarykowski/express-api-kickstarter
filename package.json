@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/jonathanchrisp/express-api-kickstarter#readme",
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^2.5.3",
     "expectations": "^0.5.2",
     "istanbul": "^0.4.1",
     "mocha": "^2.3.4",
